@@ -96,7 +96,7 @@ const music_list = [
     },
     {
         img : 'img/twentyOnePilotsBlurryFace.jpg',
-        name : 'Strest Out',
+        name : 'Stress Out',
         artist : 'Twenty One Pilots',
         music : 'musicas/Out.mp3',
 
